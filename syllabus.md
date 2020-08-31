@@ -3,7 +3,7 @@
 > The Web represents a grand emotional, sensory, and intellectual adventure for anyone willing to explore it actively. [...] For artists, ignoring the imperative to grasp the cultural implications of the Internet means risking irrelevance. [...] As human discourse adapts to its new home, everything we do and think as human beings will be and is being shaped by new values. [...] If it’s ever fair to say that anything has “changed everything,” it’s fair to say so about the Internet.
 — [Virginia Heffernan](https://www.goodreads.com/book/show/23492802-magic-and-loss)
 
-![net-art-diagram](net-art-diagram.jpg)
+![net-art-diagram](images/net-art-diagram.jpg)
 
 
 ## Course Description
@@ -13,27 +13,28 @@ This studio course examines the Internet as an artistic medium (computers, netwo
 ```css
 .class {
   course: "FVNM 3235-001 (1436)";
-  where: "ONLINE";
-  class-website: url("http://theclass.website");
+  where: "ON THE INTERNET"Foundational understanding of web coding concepts, tools && working knowledge HTML and CSS.;
+  when: "Tues; 9/10:15AM - 12PM (CST)";
+  office-hours: "Tues; 1PM - 5PM (CST) by appointment only";
   professor: "Nick Briz";
   email: "nbriz@saic.edu";
   TA: "Blake Fall-Conroy";
   email: "bfallconroy@saic.edu";
-  office hours: "by-appointment-only";
+  class-website: url("https://netart.rocks");
 }
 ```
 
 ## Learning Goals
 
+- Foundational understanding of web coding concepts, tools && working knowledge HTML and CSS.
 - Solid understanding of what the Internet is and how it works (specifically the web)
 - General background on key cultural/historical figures/movements and motivations which have informed the development of online culture (with a particular emphasis on Internet Art beginning with the "net.art" movement of the 1990s).
-- Foundational understanding of web coding concepts, tools && working knowledge HTML and CSS.
 - General understanding of the political/social/aesthetic implications of living in a networked culture.
 
 
 ## Class Structure
 
-It goes without saying this is going to be unconventional semester. Rather than seeing our new remote learning context as a compromised version of the original course, we're going to embrace and experiment with our distributed virtual classroom. Given the experimental nature of the course this semester, keep in mind that the following format and proposed schedule are very much subject to change. If and when such changes occur, I will communicate this to the class via email. If at any point you feel disoriented, frustrated or confused send me an email. I'm always available (asynchronously) via email to help address any issues or concerns pertaining to the class. But it's up to you to let me know what you need.
+It goes without saying this is going to be an unconventional semester. Rather than seeing our new remote learning context as a compromised version of the original course, we're going to embrace and experiment with our distributed virtual classroom. Given the experimental nature of the course this semester, keep in mind that the following format and proposed schedule are very much subject to change. If and when such changes occur, I will communicate this to the class via email. If at any point you feel disoriented, frustrated or confused send me an email. I'm always available (asynchronously) via email to help address any issues or concerns pertaining to the class. But it's up to you to let me know what you need.
 
 ### Asynchronous Tutorials and Experiments
 
@@ -111,9 +112,9 @@ Students should miss class only with reasonable cause. **If a student needs to m
 - Observance of a religious holiday
 - Professional opportunities
 
-If the student misses a class for other than a reasonable cause (communicated prior to the absence) the student will fail the class. **If a student misses MORE than three (excused) classes, the student will fail the class.** 
+If the student misses a class for other than a reasonable cause (communicated prior to the absence) the student will fail the class. **If a student misses MORE than three (excused) classes, the student will fail the class.**
 - Add/Drop deadline: Sept 15th
-- Deadline for withdraw from class: Nov 03.
+- Deadline for withdrawal from class: Nov 03.
 
 ### Extended Absence and Notification Assistance
 
