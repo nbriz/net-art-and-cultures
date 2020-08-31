@@ -3,7 +3,7 @@
 > The Web represents a grand emotional, sensory, and intellectual adventure for anyone willing to explore it actively. [...] For artists, ignoring the imperative to grasp the cultural implications of the Internet means risking irrelevance. [...] As human discourse adapts to its new home, everything we do and think as human beings will be and is being shaped by new values. [...] If it’s ever fair to say that anything has “changed everything,” it’s fair to say so about the Internet.
 — [Virginia Heffernan](https://www.goodreads.com/book/show/23492802-magic-and-loss)
 
-![net-art-diagram](images/net-art-diagram.jpg)
+![net-art-diagram](images/mtaa.jpg)
 
 
 ## Course Description
@@ -13,7 +13,7 @@ This studio course examines the Internet as an artistic medium (computers, netwo
 ```css
 .class {
   course: "FVNM 3235-001 (1436)";
-  where: "ON THE INTERNET"Foundational understanding of web coding concepts, tools && working knowledge HTML and CSS.;
+  where: "ON THE INTERNET";
   when: "Tues; 9/10:15AM - 12PM (CST)";
   office-hours: "Tues; 1PM - 5PM (CST) by appointment only";
   professor: "Nick Briz";

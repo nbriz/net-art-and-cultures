@@ -157,6 +157,33 @@ code {
   padding: 25px;
 }
 
+.row-center {
+  display: flex;
+  justify-content: center;
+}
+
+.row-center > * {
+  margin: 0 10px;
+}
+
+.button {
+  display: inline-block;
+  background: #fff;
+  border: 3px solid var(--red);
+  border-radius: 25px;
+  padding: 20px;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: var(--red);
+}
+
+.button:hover {
+  color: #fff;
+  background: var(--red);
+  cursor: pointer;
+}
+
 /*highlight overrides*/
 .hljs-keyword, .hljs-built_in { color: #66D9EF; }
 .hljs-function { color:#fff; }
