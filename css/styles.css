@@ -127,8 +127,13 @@ article h2 { color: #000; }
 
 @media (max-width: 800px) {
   blockquote, article {
-    padding: 20px !important;
-    margin: 0 25px;
+    padding: 0px 0px 0px 10px !important;
+    margin: 0 5px;
+  }
+
+  blockquote > p, article > p, .grid p, ul  {
+    font-size: 17px;
+    line-height: 26px;
   }
 }
 
