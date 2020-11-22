@@ -131,5 +131,15 @@
         <br>
         <br>
 
+        <script>
+        // TESTING
+        const URL = 'http://nickbriz.com/blog/?p=171'
+        fetch(`http://archive.org/wayback/available?url=${URL}`)
+          .then(res => res.json())
+          .then(json => {
+            console.log(json);
+          })
+        </script>
+
   </body>
 </html>
